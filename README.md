@@ -1,1 +1,1 @@
-# web3-learning-path
+# Web3 Learning Path 📚
